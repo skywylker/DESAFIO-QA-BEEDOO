@@ -101,7 +101,7 @@ Os critérios de aceite foram definidos de acordo com as funcionalidades e o com
 ---  
 
 ## Links
-#### [Evidências <sub>~~Chitãozinho & Xororó~~</sub>](https://drive.google.com/drive/folders/1bmW3xe2kKla6Q2uO-lVxiyokLYxSkThY?usp=sharing) - Google Drive  
+#### [Evidências](https://drive.google.com/drive/folders/1bmW3xe2kKla6Q2uO-lVxiyokLYxSkThY?usp=sharing) - Google Drive  
 
 #### [Test Cases](https://docs.google.com/spreadsheets/d/1gWM-PIWrftBVv5DtxvsVFEif1ej0wCkJXOkmzECVXbY/edit?usp=sharing) - Google Sheets
 
